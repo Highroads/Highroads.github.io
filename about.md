@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+In my day job I am a mechanical engineer specialising in electronic packaging design. I work for a medical device company developing new products for our customers to help them interact fully with the world around them. Away from work I am interested in nature, photography and understanding the world.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@kilburn.com](mailto:info@kilburn.ch)
