@@ -12,4 +12,4 @@ I started this blog up again to help with my creative writing and thinking.
 
 ### Contact me
 
-[info@kilburn.com](mailto:info@kilburn.ch)
+[info@kilburn.ch](mailto:info@kilburn.ch)
