@@ -7,4 +7,4 @@ In the Autumn of last year we had regular visits from a female Redstart. She wou
 Redstarts tend to return early in the Spring and sure enough she turned up as the weather warmed and went back to her perch on the thermometer. This time she had brought a friend. The darker male also found a space on a piece of pipework and started to over night there too. 
 With two visitors now we decided to make them welcome. A triangular piece of plywood and a few angle brackets made a nice platform for the pair we thought. But while they took a close look at the new furniture they kept to their chosen small perches.
 The Spring continued and we noticed material being transported to the plywood. Sure enough a nest was taking shape. 
-Last week the four Redstarts left the nest for the big wide world. We wish them all the best.
+Last week the four Redstarts left the nest and started their adventure. We wish them all the best.
