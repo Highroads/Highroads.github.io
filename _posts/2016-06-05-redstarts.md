@@ -13,5 +13,6 @@ With two visitors now we decided to make them welcome. A triangular piece of ply
 
 The Spring continued and we noticed material being transported to the plywood. Sure enough a nest was taking shape. 
 
-[![Redstarts in the nest]({{site.url}}/images/redstarts.jpg "Redstarts in the nest")]("Redstarts in the nest")
+![Redstarts in the nest]({{site.url}}/images/redstarts.jpg "Redstarts in the nest")
+
 Last week the four Redstarts left the nest and started their adventure. We wish them all the best.
