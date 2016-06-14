@@ -8,7 +8,7 @@ In my day job I am a mechanical engineer specialising in electronic packaging de
 
 ### More Information
 
-I started this blog to help with my writing and to give me a place to post easily about small topics. The setup at Github.io is simple so that you can concentrate on the content.  
+I started this blog to help with my writing and to give me a place to post easily about small topics. The setup at Github.io is simple so that you can concentrate on the content.
 
 ### Contact me
 
